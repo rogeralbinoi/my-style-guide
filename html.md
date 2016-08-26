@@ -47,6 +47,16 @@ Recomendado:
 
     <script src="//foo.com/bar.js"></script>
 
+**Não esquecer do atributo lang na tag html**
+
+Não recomendado:
+
+        <html>
+
+Recomendado:
+
+        <html lang="pt">
+
 **Omitir tag head**
 
     <html>
