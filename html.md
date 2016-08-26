@@ -106,3 +106,5 @@ Não recomendado:
 Recomendado:
 
     <p>Lorem ipsum.</p>
+
+**Validar HTML pelo [w3c validator](https://validator.w3.org/)**
